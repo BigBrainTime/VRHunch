@@ -1,0 +1,2 @@
+C:\Users\silas.trost\Documents\GitHub\VRHunch\test2\Debug\test2.exe
+C:\Users\silas.trost\Documents\GitHub\VRHunch\test2\Debug\test2.pdb
